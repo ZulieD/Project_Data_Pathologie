@@ -300,13 +300,13 @@ st.write('''La différence observée entre les deux sexes pour les hospitalisati
 En France, la majorité de ces hospitalisations sans motif médical sont des hommes.''')
 
 st.write("")
-st.subheader(''' Cela soulève de nombreuse question :''')
+st.subheader(''' Cela soulève de nombreuses questions :''')
 st.write("")
 st.write('''Pourquoi les hommes vont-ils plus à l'hôpital pour aucune raison médicale comparé aux femmes ?''')
 st.write("Retrouvons-nous une différence aussi importante dans d'autre pathologie ?")
 st.write("Est-ce que cette disparité reflète un déséquilibre social ou simplement des différences physiologiques entre les sexes ? ")
 
-st.subheader("Regardons alors cela de plus pret : ")
+st.subheader("Regardons alors cela de plus prêt : ")
 
 
 st.write("Nous allons exécuter ce code pour les trois niveaux de pathologie différents afin d'identifier les pathologies présentant des écarts significatifs entre le nombre de femmes et d'hommes : ")
